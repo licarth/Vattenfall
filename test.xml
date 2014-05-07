@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smeterengine>
+    <scale>DAY</scale>
+    <district name="Spandau">
+        <period begin="2013-06-12T15:40:00+02:00" end="2013-06-12T16:20:00+02:00">
+            <districtTimestampData value="2013-06-12T15:45:00+02:00">
+                <usage>130.851050901</usage>
+                <generation>0</generation>
+                <feed>152.5319</feed>
+                <key-acount-usage>0</key-acount-usage>
+            </districtTimestampData>
+            <districtTimestampData value="2013-06-12T16:00:00+02:00">
+                <usage>131.176623060</usage>
+                <generation>0</generation>
+                <feed>152.7169</feed>
+                <key-acount-usage>0</key-acount-usage>
+            </districtTimestampData> .
+            <districtTimestampData value="2013-06-12T16:15:00+02:00">
+                <usage>132.103329386</usage>
+                <generation>0</generation>
+                <feed>153.479</feed>
+                <key-acount-usage>0</key-acount-usage>
+            </districtTimestampData>
+        </period>
+    </district>
+</smeterengine>
